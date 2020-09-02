@@ -1,1 +1,1 @@
-# Logical
+# Logical Programming
